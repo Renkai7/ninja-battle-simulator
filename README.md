@@ -18,8 +18,6 @@ Simple text-based game that simulates battles between Naruto characters. The gam
 
 - Switch Statement: Use a switch statement to display the menu for character selection and other game options.
 
-- Arrays: Store the Naruto characters in an array for easy access and selection during battles.
-
 - Functions: Organize your code into functions for character creation, battling, user input, and menu display.
 
 - Console Output: Use console.log() to display the game's progress and results.
